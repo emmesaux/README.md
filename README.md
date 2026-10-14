@@ -20,7 +20,7 @@
 Sono **Mario Saulle** e uso GitHub per costruire progetti concreti, sperimentare stack diversi e migliorare continuamente il mio modo di sviluppare.
 
 - 🎯 Focus su progetti pratici e utili
-- 🧩 Esperienza su più linguaggi (JavaScript, PHP, Python, C, HTML)
+- 🧩 Esperienza su più linguaggi (JavaScript, PHP, Python, C, HTML) e app cross-platform con Flutter (Dart)
 - 🚀 Approccio hands-on: idea → prototipo → miglioramento continuo
 
 ---
@@ -28,7 +28,7 @@ Sono **Mario Saulle** e uso GitHub per costruire progetti concreti, sperimentare
 ## 🛠️ Stack principale
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,py,c,html,css,git,github,vscode&perline=9" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=js,php,py,c,html,css,flutter,dart,git,github,vscode&perline=11" alt="stack" />
 </div>
 
 ---
@@ -40,6 +40,20 @@ Sono **Mario Saulle** e uso GitHub per costruire progetti concreti, sperimentare
 - [**Prestazione_Occasionale**](https://github.com/emmesaux/Prestazione_Occasionale) — utility Python
 - [**PSD-project**](https://github.com/emmesaux/PSD-project) — progetto in C
 - [**angela-lavanderia**](https://github.com/emmesaux/angela-lavanderia) — app web JavaScript
+
+---
+
+## 🧡 Founder @ Ti-e
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cc681329-c36e-404c-aa14-efa04f8459d9" alt="Ti-e banner" width="100%" />
+  <br/><br/>
+  <a href="https://beauty-sync.it/"><img src="https://img.shields.io/badge/Website-beauty--sync.it-FF5B2E?style=for-the-badge&labelColor=111111&color=FF5B2E" alt="beauty-sync website" /></a>
+</div>
+
+- Founder di **Ti-e (Technical In-Engine)**, software house in Campania.
+- Sviluppiamo software su misura e soluzioni AI per studi professionali e PMI.
+- Focus: gestionali, app mobile e strumenti antiriciclaggio per commercialisti.
 
 ---
 
