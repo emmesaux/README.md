@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Ciao%2C+sono+Mario+Saulle+%F0%9F%91%8B;Sviluppatore+full-stack+in+crescita;Costruisco+progetti+pratici+tra+web%2C+automazioni+e+tooling" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=900&center=true&vCenter=true&width=980&lines=Ciao%2C+sono+Mario+Saulle+%F0%9F%91%8B;Founder+%40+Ti-e+%F0%9F%A7%A1;Sviluppatore+full-stack+in+crescita;Costruisco+progetti+pratici+tra+web%2C+automazioni+e+tooling" alt="typing intro" />
 
 <br/>
 
@@ -46,7 +46,7 @@ Sono **Mario Saulle** e uso GitHub per costruire progetti concreti, sperimentare
 ## 🧡 Founder @ Ti-e
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cc681329-c36e-404c-aa14-efa04f8459d9" alt="Ti-e banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/6fb36103-276c-49ba-9c01-b55a3865f06b" alt="Ti-e banner" width="100%" />
   <br/><br/>
   <a href="https://beauty-sync.it/"><img src="https://img.shields.io/badge/Website-beauty--sync.it-FF5B2E?style=for-the-badge&labelColor=111111&color=FF5B2E" alt="beauty-sync website" /></a>
 </div>
@@ -54,6 +54,7 @@ Sono **Mario Saulle** e uso GitHub per costruire progetti concreti, sperimentare
 - Founder di **Ti-e (Technical In-Engine)**, software house in Campania.
 - Sviluppiamo software su misura e soluzioni AI per studi professionali e PMI.
 - Focus: gestionali, app mobile e strumenti antiriciclaggio per commercialisti.
+- Ho creato **Beauty Sync** (https://beauty-sync.it/): gestionale per centri estetici con app **Android, iOS e Windows**.
 
 ---
 
